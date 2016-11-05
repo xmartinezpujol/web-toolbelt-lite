@@ -10,11 +10,11 @@
 angular.module('webToolbeltApp')
   .service('datamanager', function () {
     this.getCategories = function(){
-      return $.get( 'users/categories.json' );
+      return $.get( 'web-toolkit-lite/' + 'users/categories.json' );
     };
 
     this.getCategory = function(id){
-      var categoryFile = '/category/' + id + '.json';
+      var categoryFile = 'web-toolkit-lite/' + 'category/' + id + '.json';
       console.log(categoryFile);
       return $.get(categoryFile);
     };
