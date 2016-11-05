@@ -1,0 +1,16 @@
+<div class="jumbotron">
+  <h1>Web Toolbelt</h1>
+</div>
+
+<div class="row text-center">
+  <h2 class="text-uppercase">{{user.name}}</h2>
+</div>
+
+<ul id="category-list" class="row">
+  <li class="category-item col-md-4" ng-repeat="category in user.categories">
+    <button ui-sref="category({id: category.id})" ng-style="{'background-color': category.color}" class="btn btn-primary btn-block" ng-class="{'hot': category.clicks > 10}">
+      <md-icon class="material-icons md-light md-36"> {{category.icon}} </md-icon>
+      <h5 class="text-uppercase">{{category.name}}</h5>
+    </button>
+  </li>
+</ul>

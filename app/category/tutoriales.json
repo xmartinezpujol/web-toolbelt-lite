@@ -1,0 +1,16 @@
+[{
+	"name": "Scotch",
+	"url": "https://scotch.io/",
+	"color": "#212121",
+	"clicks": 5
+}, {
+	"name": "CSS-Tricks",
+	"url": "https://css-tricks.com/",
+	"color": "#FF3D00",
+	"clicks": 4
+}, {
+	"name": "Tristan White",
+	"url": "https://tristanwhite.info/#videos",
+	"color": "#D32F2F",
+	"clicks": 3
+}]

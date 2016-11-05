@@ -1,0 +1,12 @@
+<div class="row text-center">
+  <h2 class="text-uppercase">{{category.test}}</h2>
+</div>
+
+<ul id="category-list" class="row">
+  <li class="category-item col-md-4" ng-repeat="categoryitem in category.data">
+    <a href="{{categoryitem.url}}" target="_blank"><button ng-style="{'background-color': categoryitem.color}" class="btn btn-primary btn-block" ng-class="{'hot': categoryitem.clicks > 10}">
+      <md-icon class="material-icons md-light md-36"> {{category.icon}} </md-icon>
+      <h5 class="text-uppercase">{{categoryitem.name}}</h5>
+    </button></a>
+  </li>
+</ul>
