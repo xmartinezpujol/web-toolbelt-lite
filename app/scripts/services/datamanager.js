@@ -14,8 +14,6 @@ angular.module('webToolbeltApp')
     };
 
     this.getCategory = function(id){
-      var categoryFile = 'category/' + id + '.json';
-      console.log(categoryFile);
       return $.get( 'category/' + id + '.json' );
     };
   });

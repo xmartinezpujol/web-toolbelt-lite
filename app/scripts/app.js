@@ -21,6 +21,15 @@ angular
       .state('category', {
         url: '/category/:id',
         templateUrl: 'views/category.html',
-        controller: 'CategoryCtrl as category'
+        resolve: {
+          categoryitems: function($stateParams, datamanager) {
+            return datamanager.getCategory($stateParams.id);
+          }
+        },
+        controller: function(categoryitems, $stateParams){
+          this.data = categoryitems;
+          this.test = $stateParams.id;
+        },
+        controllerAs: 'category'
       });
   }]);
