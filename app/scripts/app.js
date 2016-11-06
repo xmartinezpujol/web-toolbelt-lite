@@ -16,7 +16,17 @@ angular
     $stateProvider
       .state('home', {
         url: '/',
-        templateUrl: 'views/start.html'
+        templateUrl: 'views/start.html',
+        resolve: {
+          categories: function(datamanager) {
+            return datamanager.getCategories();
+          }
+        },
+        controller: function(categories){
+          this.data = categoryitems;
+          this.name = 'CATEGORIAS';
+        },
+        controllerAs: 'user'
       })
       .state('category', {
         url: '/category/:id',
