@@ -16,17 +16,7 @@ angular
     $stateProvider
       .state('home', {
         url: '/',
-        templateUrl: 'views/start.html',
-        resolve: {
-          categories: function(datamanager) {
-            return datamanager.getCategories();
-          }
-        },
-        controller: function(categories){
-          this.data = categoryitems;
-          this.name = 'CATEGORIAS';
-        },
-        controllerAs: 'user'
+        templateUrl: 'views/start.html'
       })
       .state('category', {
         url: '/category/:id',
@@ -39,6 +29,9 @@ angular
         controller: function(categoryitems, $stateParams){
           this.data = categoryitems;
           this.test = $stateParams.id;
+          this.clickUp = function(categoryitem){
+            categoryitem.clicks += 1;
+          };
         },
         controllerAs: 'category'
       });
