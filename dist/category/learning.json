@@ -13,4 +13,9 @@
 	"url": "https://tristanwhite.info/#videos",
 	"color": "#D32F2F",
 	"clicks": 3
+}, {
+	"name": "Udacity",
+	"url": "https://www.udacity.com/courses/all",
+	"color": "#2196F3",
+	"clicks": 12
 }]

@@ -1,16 +1,21 @@
 [{
+	"name": "animate.css",
+	"url": "https://daneden.github.io/animate.css/",
+	"color": "#2196F3",
+	"clicks": 0
+}, {
 	"name": "stylifyme",
 	"url": "http://stylifyme.com/",
 	"color": "#E91E63",
-	"clicks": 5
+	"clicks": 0
 }, {
 	"name": "sassmeister",
 	"url": "http://www.sassmeister.com/",
 	"color": "#F44336",
-	"clicks": 12
+	"clicks": 0
 }, {
 	"name": "flexplorer",
 	"url": "http://bennettfeely.com/flexplorer/",
 	"color": "#2196F3",
-	"clicks": 3
+	"clicks": 0
 }]

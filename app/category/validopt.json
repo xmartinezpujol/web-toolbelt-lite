@@ -1,21 +1,26 @@
 [{
+	"name": "SVGOMG",
+	"url": "https://jakearchibald.github.io/svgomg/",
+	"color": "#009688",
+	"clicks": 0
+ },	{
 	"name": "JSONLint",
 	"url": "http://jsonlint.com/",
 	"color": "#E91E63",
-	"clicks": 5
+	"clicks": 0
 }, {
 	"name": "W3C CSS Validator",
 	"url": "https://jigsaw.w3.org/css-validator/",
 	"color": "#F44336",
-	"clicks": 4
+	"clicks": 0
 }, {
 	"name": "W3C HTML Validator",
 	"url": "https://validator.w3.org/",
-	"color": "#2196F3",
-	"clicks": 3
+	"color": "#8BC34A",
+	"clicks": 0
 }, {
 	"name": "Twitter Card Validator",
 	"url": "https://cards-dev.twitter.com/validator",
 	"color": "#2196F3",
-	"clicks": 3
+	"clicks": 0
 }]
