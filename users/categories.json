@@ -4,18 +4,18 @@
 	"icon": "title",
 	"color": "#E91E63"
 }, {
-	"id": "frameworks",
-	"name": "Frameworks",
+	"id": "libs",
+	"name": "Librerías",
 	"icon": "build",
 	"color": "#F44336"
 }, {
-	"id": "validadores",
-	"name": "Validadores",
+	"id": "validopt",
+	"name": "Valida/Optimiza",
 	"icon": "bug_report",
 	"color": "#2196F3"
 }, {
-	"id": "tutoriales",
-	"name": "Tutoriales",
+	"id": "learning",
+	"name": "Learning",
 	"icon": "business_center",
 	"color": "#673AB7"
 }, {
@@ -24,8 +24,23 @@
 	"icon": "art_track",
 	"color": "#3F51B5"
 }, {
-	"id": "hosting",
-	"name": "Hosting",
-	"icon": "backup",
+	"id": "teamwork",
+	"name": "Teamwork",
+	"icon": "face",
 	"color": "#9C27B0"
+}, {
+	"id": "proto",
+	"name": "Prototipos",
+	"icon": "web",
+	"color": "#4CAF50"
+}, {
+	"id": "templates",
+	"name": "Templates",
+	"icon": "create",
+	"color": "#4E342E"
+}, {
+	"id": "iconpacks",
+	"name": "Icon Packs",
+	"icon": "insert_photo",
+	"color": "#F57F17"
 }]
