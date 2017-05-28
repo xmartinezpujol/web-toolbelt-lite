@@ -4,14 +4,19 @@
 	"color": "#F4511E",
 	"clicks": 0
 }, {
-	"name": "pikabu",
-	"url": "http://mobify.github.io/pikabu/",
-	"color": "#F9A825",
+	"name": "D3",
+	"url": "https://d3js.org/",
+	"color": "#F89D42",
 	"clicks": 0
 }, {
-	"name": "trunk.js",
-	"url": "http://www.roblukedesign.com/trunk/trunk.html",
-	"color": "#FF4081",
+	"name": "vide",
+	"url": "http://vodkabears.github.io/vide/",
+	"color": "#424242",
+	"clicks": 0
+}, {
+	"name": "leaflet.js",
+	"url": "http://leafletjs.com/",
+	"color": "#B4E060",
 	"clicks": 0
 }, {
 	"name": "extraslider",
@@ -19,13 +24,8 @@
 	"color": "#000000",
 	"clicks": 0
 }, {
-	"name": "rellax",
-	"url": "https://dixonandmoe.com/rellax/",
-	"color": "#00BFA5",
-	"clicks": 0
-}, {
-	"name": "vide",
-	"url": "http://vodkabears.github.io/vide/",
-	"color": "#424242",
+	"name": "Slick",
+	"url": "http://kenwheeler.github.io/slick/",
+	"color": "#2196F3",
 	"clicks": 0
 }]

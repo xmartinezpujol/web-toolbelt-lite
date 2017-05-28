@@ -1,0 +1,31 @@
+[{
+	"name": "panda",
+	"url": "http://usepanda.com/",
+	"color": "#3D86C5",
+	"clicks": 1
+}, {
+	"name": "awwwards",
+	"url": "https://www.awwwards.com/",
+	"color": "#1ABC9C",
+	"clicks": 1
+}, {
+	"name": "the stacks",
+	"url": "http://thestacks.im/",
+	"color": "#5BBC2E",
+	"clicks": 1
+}, {
+	"name": "muzli",
+	"url": "https://muz.li/",
+	"color": "#FF2178",
+	"clicks": 20
+}, {
+	"name": "siteinspire",
+	"url": "https://www.siteinspire.com/",
+	"color": "#FF3333",
+	"clicks": 0
+}, {
+	"name": "Little Big Details",
+	"url": "http://littlebigdetails.com/",
+	"color": "#FF3333",
+	"clicks": 1
+}]
