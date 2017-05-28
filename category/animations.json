@@ -3,39 +3,46 @@
 	"url": "https://daneden.github.io/animate.css/",
 	"color": "#2196F3",
 	"clicks": 25
-}, {
+},
+{
 	"name": "kute.js",
 	"url": "http://thednp.github.io/kute.js/",
 	"color": "#f9a825",
 	"clicks": 0
-}, {
+},
+{
 	"name": "greensock",
 	"url": "https://greensock.com/",
 	"color": "#4CAF50",
 	"clicks": 30
-}, {
+},
+{
 	"name": "anime.js",
 	"url": "http://anime-js.com/",
 	"color": "#E91E63",
 	"clicks": 0
-}, {
+},
+{
 	"name": "rellax",
 	"url": "https://dixonandmoe.com/rellax/",
 	"color": "#00BFA5",
 	"clicks": 0
-}, {
+},
+{
 	"name": "mo.js",
 	"url": "http://mojs.io/",
 	"color": "#3A0839",
 	"clicks": 0
-}, {
+},
+{
 	"name": "bounce.js",
 	"url": "http://bouncejs.com/",
 	"color": "#3A0839",
 	"clicks": 0
-}, {
+},
+{
 	"name": "cubic-bezier",
 	"url": "http://cubic-bezier.com",
 	"color": "#00AABB",
-	"clicks": 0		
+	"clicks": 0
 }]
