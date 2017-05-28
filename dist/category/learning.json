@@ -6,7 +6,7 @@
 }, {
 	"name": "CSS-Tricks",
 	"url": "https://css-tricks.com/",
-	"color": "#FF9800",
+	"color": "#FF3D00",
 	"clicks": 4
 }, {
 	"name": "Tristan White",
@@ -18,39 +18,4 @@
 	"url": "https://www.udacity.com/courses/all",
 	"color": "#2196F3",
 	"clicks": 12
-}, {
-	"name": "Smashing Magazine",
-	"url": "https://www.smashingmagazine.com/",
-	"color": "#FF3D00",
-	"clicks": 0
-}, {
-	"name": "Codrops",
-	"url": "https://tympanus.net/codrops/",
-	"color": "#0099CC",
-	"clicks": 11
-}, {
-	"name": "Sitepoint",
-	"url": "https://www.sitepoint.com/",
-	"color": "#3A3A3A",
-	"clicks": 0
-}, {
-	"name": "Julien Renaux",
-	"url": "https://julienrenaux.fr/",
-	"color": "#5F9AA4",
-	"clicks": 0
-}, {
-	"name": "Web Designer Depot",
-	"url": "https://www.webdesignerdepot.com/",
-	"color": "#FAB23A",
-	"clicks": 0
-}, {
-	"name": "Thinkster",
-	"url": "https://thinkster.io/",
-	"color": "#1985E4",
-	"clicks": 0
-}, {
-	"name": "Egghead",
-	"url": "https://egghead.io/",
-	"color": "#EF494F",
-	"clicks": 30
 }]

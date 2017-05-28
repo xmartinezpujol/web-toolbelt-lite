@@ -1,9 +1,9 @@
 [{
-	"name": "Font Flame",
-	"url": "http://fontflame.com/",
-	"color": "#212121",
-	"clicks": 5
-},{
+	"name": "animate.css",
+	"url": "https://daneden.github.io/animate.css/",
+	"color": "#2196F3",
+	"clicks": 0
+}, {
 	"name": "stylifyme",
 	"url": "http://stylifyme.com/",
 	"color": "#E91E63",
