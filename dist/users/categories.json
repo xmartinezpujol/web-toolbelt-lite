@@ -1,6 +1,6 @@
 [{
-	"id": "tipografia",
-	"name": "Tipografía",
+	"id": "general",
+	"name": "General",
 	"icon": "title",
 	"color": "#E91E63"
 }, {
@@ -19,8 +19,8 @@
 	"icon": "business_center",
 	"color": "#673AB7"
 }, {
-	"id": "css",
-	"name": "CSS",
+	"id": "animations",
+	"name": "Animations",
 	"icon": "art_track",
 	"color": "#3F51B5"
 }, {
@@ -29,18 +29,18 @@
 	"icon": "face",
 	"color": "#9C27B0"
 }, {
-	"id": "proto",
-	"name": "Prototipos",
-	"icon": "web",
+	"id": "cssresources",
+	"name": "CSS Resources",
+	"icon": "code",
 	"color": "#4CAF50"
 }, {
-	"id": "templates",
-	"name": "Templates",
+	"id": "api",
+	"name": "API",
 	"icon": "create",
 	"color": "#4E342E"
 }, {
-	"id": "iconpacks",
-	"name": "Icon Packs",
+	"id": "inspiration",
+	"name": "Inspiration",
 	"icon": "insert_photo",
 	"color": "#F57F17"
 }]
